@@ -4,5 +4,8 @@
   },
   "devDependencies": {
     "style-dictionary": "^3.7.1"
+  },
+  "scripts": {
+    "generate": "token-transformer tokens.json output.json"
   }
 }
