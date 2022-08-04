@@ -3,9 +3,11 @@
     "token-transformer": "^0.0.24"
   },
   "devDependencies": {
+    "husky": "^8.0.1",
     "style-dictionary": "^3.7.1"
   },
   "scripts": {
-    "generate": "token-transformer tokens.json output.json"
+    "update": "token-transformer tokens.json output.json && npx style-dictionary build",
+    "prepare": "husky install"
   }
 }
