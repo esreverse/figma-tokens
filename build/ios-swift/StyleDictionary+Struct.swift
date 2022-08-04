@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 04 Aug 2022 15:24:25 GMT
+// Generated on Thu, 04 Aug 2022 15:27:32 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
     internal static let accentDefault = #5a67d8
-    internal static let bgDefault = #4fd1c5
+    internal static let bgDefault = #ff00ff
     internal static let borderRadiusLg = 8
     internal static let borderRadiusSm = 4
     internal static let borderRadiusXl = 16
