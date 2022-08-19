@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Aug 2022 10:16:59 GMT
+// Generated on Thu, 18 Aug 2022 10:18:35 GMT
 
 
 import UIKit
 
 public class StyleDictionaryClass {
     public static let accentDefault = #5a67d8
-    public static let bgDefault = #38a169
+    public static let bgDefault = #ed8936
     public static let borderRadiusLg = 8
     public static let borderRadiusSm = 4
     public static let borderRadiusXl = 16
