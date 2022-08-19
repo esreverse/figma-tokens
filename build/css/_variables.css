@@ -1,11 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 Aug 2022 10:18:35 GMT
+ * Generated on Fri, 19 Aug 2022 10:15:46 GMT
  */
 
 :root {
+  --token-set-order-0: global;
+  --token-set-order-1: Brand A;
+  --token-set-order-2: Brand B;
   --fg-default: #ffffff;
-  --bg-default: #ed8936;
+  --bg-default: #975a16;
   --accent-default: #5a67d8;
   --shadows-default: #f7fafc;
   --spacing-scale: 2;

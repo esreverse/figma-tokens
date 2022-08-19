@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Aug 2022 10:18:35 GMT
+// Generated on Fri, 19 Aug 2022 10:15:46 GMT
 
 
 import UIKit
 
 public class StyleDictionaryClass {
     public static let accentDefault = #5a67d8
-    public static let bgDefault = #ed8936
+    public static let bgDefault = #975a16
     public static let borderRadiusLg = 8
     public static let borderRadiusSm = 4
     public static let borderRadiusXl = 16
@@ -151,6 +151,9 @@ public class StyleDictionaryClass {
     public static let spacingSm = 8
     public static let spacingXl = 64
     public static let spacingXs = 4
+    public static let tokenSetOrder0 = global
+    public static let tokenSetOrder1 = Brand A
+    public static let tokenSetOrder2 = Brand B
     public static let typographyBody = [object Object]
     public static let typographyH1Bold = [object Object]
     public static let typographyH1Regular = [object Object]

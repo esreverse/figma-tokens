@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Aug 2022 10:18:35 GMT
+// Generated on Fri, 19 Aug 2022 10:15:46 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
     internal static let accentDefault = #5a67d8
-    internal static let bgDefault = #ed8936
+    internal static let bgDefault = #975a16
     internal static let borderRadiusLg = 8
     internal static let borderRadiusSm = 4
     internal static let borderRadiusXl = 16
@@ -151,6 +151,9 @@ internal struct StyleDictionaryStruct {
     internal static let spacingSm = 8
     internal static let spacingXl = 64
     internal static let spacingXs = 4
+    internal static let tokenSetOrder0 = global
+    internal static let tokenSetOrder1 = Brand A
+    internal static let tokenSetOrder2 = Brand B
     internal static let typographyBody = [object Object]
     internal static let typographyH1Bold = [object Object]
     internal static let typographyH1Regular = [object Object]

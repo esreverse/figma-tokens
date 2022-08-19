@@ -1,4 +1,18 @@
 {
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    },
+    "1": {
+      "value": "Brand A",
+      "type": "other"
+    },
+    "2": {
+      "value": "Brand B",
+      "type": "other"
+    }
+  },
   "fg": {
     "default": {
       "value": "#ffffff",
@@ -7,7 +21,7 @@
   },
   "bg": {
     "default": {
-      "value": "#ed8936",
+      "value": "#975a16",
       "type": "color"
     }
   },
