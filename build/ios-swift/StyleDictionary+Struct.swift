@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 19 Aug 2022 10:15:46 GMT
+// Generated on Mon, 12 Sep 2022 08:18:27 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
     internal static let accentDefault = #5a67d8
-    internal static let bgDefault = #975a16
+    internal static let bgDefault = #d53f8c
     internal static let borderRadiusLg = 8
     internal static let borderRadiusSm = 4
     internal static let borderRadiusXl = 16
@@ -138,7 +138,7 @@ internal struct StyleDictionaryStruct {
     internal static let opacityMd = 50%
     internal static let paragraphSpacingH1 = 32
     internal static let paragraphSpacingH2 = 26
-    internal static let shadowsDefault = #f7fafc
+    internal static let shadowsDefault = #edf2f7
     internal static let sizingLg = 13.5
     internal static let sizingMd = 9
     internal static let sizingScale = 1.5

@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 19 Aug 2022 10:15:46 GMT
+// Generated on Mon, 12 Sep 2022 08:18:27 GMT
 
 
 import UIKit
 
 public class StyleDictionaryClass {
     public static let accentDefault = #5a67d8
-    public static let bgDefault = #975a16
+    public static let bgDefault = #d53f8c
     public static let borderRadiusLg = 8
     public static let borderRadiusSm = 4
     public static let borderRadiusXl = 16
@@ -138,7 +138,7 @@ public class StyleDictionaryClass {
     public static let opacityMd = 50%
     public static let paragraphSpacingH1 = 32
     public static let paragraphSpacingH2 = 26
-    public static let shadowsDefault = #f7fafc
+    public static let shadowsDefault = #edf2f7
     public static let sizingLg = 13.5
     public static let sizingMd = 9
     public static let sizingScale = 1.5

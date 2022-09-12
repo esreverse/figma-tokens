@@ -21,7 +21,7 @@
   },
   "bg": {
     "default": {
-      "value": "#975a16",
+      "value": "#d53f8c",
       "type": "color"
     }
   },
@@ -33,7 +33,7 @@
   },
   "shadows": {
     "default": {
-      "value": "#f7fafc",
+      "value": "#edf2f7",
       "type": "color"
     }
   },
